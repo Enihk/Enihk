@@ -71,7 +71,7 @@ A user-friendly responsive website for buying electronic fitness tools.
 
 ## Contact
 
-- Portfolio: [zins-portfolio.vercel.app](https://zins-portfolio.vercel.app)
+- Portfolio: [www.khaingzinzin.website](https://www.khaingzinzin.website/)
 - Email: khinezinzin7777@gmail.com
 - Malaysia
 
