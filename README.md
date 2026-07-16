@@ -45,6 +45,7 @@ I'm a CS student with a strong focus on cloud infrastructure and platform engine
 
 | Certification | Issuer | Year |
 |---|---|---|
+| KCNA: Kubernetes and Cloud Native Associate | The Linux Foundation | 2026 
 | HashiCorp Certified: Terraform Associate (003) | HashiCorp | 2026 |
 | AWS Academy Cloud Foundations | AWS | 2025 |
 <!-- | AWS Solutions Architect – Associate *(in progress)* | AWS | Expected June 2026 | -->
@@ -62,7 +63,6 @@ A user-friendly responsive website for buying electronic fitness tools.
 
 ## Current Goals
 
-<!-- - Pass **AWS Solutions Architect – Associate** (June 2026) -->
 - Build public cloud infrastructure projects with Terraform and AWS
 - Deepen hands-on skills in Docker and Kubernetes
 - Grow toward a **Cloud / Platform Engineer** role
@@ -77,4 +77,4 @@ A user-friendly responsive website for buying electronic fitness tools.
 
 ---
 
-<!-- > *Currently transitioning from general CS into cloud and platform engineering — one cert, one project, one step at a time.* -->
+*Currently transitioning from general CS into cloud and platform engineering — one cert, one project, one step at a time.*
