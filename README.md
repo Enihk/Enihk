@@ -9,7 +9,7 @@ I'm a CS student with a strong focus on cloud infrastructure and platform engine
 ## About Me
 
 - Bachelor of Computer Science (Honors) — Universiti Tunku Abdul Rahman (UTAR), Malaysia · Dean's List
-- Certified in **Terraform (HashiCorp)** **AWS Academy Cloud Foundations** **KCNA: Kubernetes and Cloud Native Associate** **KCSA: Kubernetes and Cloud Native Security Associate**
+- Certified in **Terraform (HashiCorp)** **AWS Academy Cloud Foundations** **KCNA: Kubernetes and Cloud Native Associate** **KCSA: Kubernetes and Cloud Native Security Associate** **CKA: Certified Kubernetes Administrator**
 - Building hands-on skills in AWS, Docker, Kubernetes, and Consul
 - Based in Malaysia
 
@@ -45,6 +45,7 @@ I'm a CS student with a strong focus on cloud infrastructure and platform engine
 
 | Certification | Issuer | Year |
 |---|---|---|
+| CKA: Certified Kubernetes Administrator | The Linux Foundation | 2026 
 | KCSA: Kubernetes and Cloud Native Security Associate | The Linux Foundation | 2026 
 | KCNA: Kubernetes and Cloud Native Associate | The Linux Foundation | 2026 
 | HashiCorp Certified: Terraform Associate (003) | HashiCorp | 2026 |
